@@ -9,7 +9,7 @@
     box-sizing: border-box;
 }
 #body{
-    background-color: rgb(48, 40, 40);
+    background-color: #f9f9f9;
 }
 
 /*Main Styling*/
@@ -83,7 +83,8 @@ a{
 }
 
 #navbar a {
-	color: #f9f9f9;
+	color: 
+    #f9f9f9;
 }
 
 #navbar .logo {
@@ -109,6 +110,7 @@ a{
 	padding: 75px;
 	text-align: center;
     font-size: 22px;
+    
 }
 
 /*Showcase*/
@@ -163,9 +165,9 @@ a{
 }
 .projects-row-detail figure .capa{
     position: absolute;
-    top: 86%;
+    top: 95.5%;
     width: 37.5%;
-    height: 34.5%;
+    height: 38.5%;
     background: rgba(11, 103, 123, 0.6);
     transition: all 500ms ease-out;
     opacity: 0;
